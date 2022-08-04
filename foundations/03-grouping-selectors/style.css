@@ -1,0 +1,15 @@
+.uno,
+.duo
+{
+font-size: 28px;
+font: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.uno {
+    color: white;
+    background-color: black;
+}
+
+.duo {
+    background-color: yellow;
+}
